@@ -8,9 +8,10 @@ h1 {
 }
 
 .card {
-  width: 100%;
-  padding: 20px;
+  width: 45%;
+  padding: 25px;
   display: flex;
+  margin: 0 auto;
   border-radius: 5px;
   box-shadow: 0 1px 6px -2px black;
   background-color: white;
@@ -18,7 +19,7 @@ h1 {
 }
 
 .card img {
-  width: 23vw;
+  width: 15vw;
   height: 150px;
   border-radius: 3px;
   margin-right: 20px;

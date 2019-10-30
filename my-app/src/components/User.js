@@ -6,6 +6,7 @@ class User extends React.Component {
 
     state ={
       name: [],
+      bio: []
     }
 
     componentDidMount () {
